@@ -1,0 +1,49 @@
+Caractéristiques du plateau NORMAL
+
+
+- 4 fiches coût de construction
+- 2 fiches (routes, armée)
+- 5 colonies, 4 villes, 15 routes par couleur (*4)
+- 1 pion voleur
+- 18 jetons numérotés (2,3,3,4,4,5,5,6,6,8,8,9,9,10,10,11,11,12)
+- 25 cartes développement
+- 18 tuiles terrains (forêt, colline, Champs Pré, Montagne
+- 95 cartes ressources (Bois, argile, blé, mouton, caillou)
+- 18 tuiles maritime (9 normales, 4?, 1 de chaque élément)
+- 1 tuile désert
+- 2 dès
+
+De haut en bas, nombre de tuile par ligne, avec les maritimes :
+4(maritimes),5,6,7,6,5,4(maritimes)
+
+- 12 Chevalier
+- Progrès
+    3 Construction de route
+    3 Invention
+    3 Monopole
+- 4 Construction spréciale
+
+
+Caractéristique du plateau extension
+
+
+
+- 11 tuiles terrain
+- 4 tuiles maritime
+- 2 couleurs de plus (avec le même nombre que plus haut
+- 25 cartes ressources en plus (dont un désert)
+- 9 dévellopements
+- 28 jetons nimérotés
+
+(en tout)
+De haut en bas, nombre de tuile par ligne, avec les maritimes :
+4(maritimes),5,6,7,8,7,6,5,4(maritimes)
+
+(en tout)
+- 20 Chevalier
+- Progrès
+    3 Construction de route (constuit 2 routes à un endroit autorisé)
+    3 Invention (prends 2 ressources e son choix à la banque)
+    3 Monopole (volent toutes les ressources d'un type à tous les joueurs)
+- 5 Construction spréciale (1 point de victoire)
+}
